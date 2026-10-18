@@ -1,0 +1,362 @@
+{
+  "date": "2026-10-19",
+  "issue": 38,
+  "today": {
+    "id": "tmdb_238",
+    "title": "教父",
+    "en": "The Godfather",
+    "year": 1972,
+    "country": "美国",
+    "director": "弗朗西斯·福特·科波拉",
+    "cast": "马龙·白兰度 / 阿尔·帕西诺 / 詹姆斯·肯恩",
+    "genres": [
+      "犯罪",
+      "剧情"
+    ],
+    "runtime": 175,
+    "douban": 9.3,
+    "appScore": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/y03tzUKvkRCYwJ5NWys4W4bnS9m.jpg",
+    "reason": "开场那句「我相信美国」之后，镜头用三十分钟把一个人怎么变成另一个人的全部条件都摆好了。这不是黑帮片，是关于「接班」这件事最冷的一次解剖。",
+    "plot": "40 年代的纽约，维托·柯里昂是黑手党家族的首领，也是许多弱小平民的保护神。因为拒绝毒枭的合作要求，家族与其他帮派矛盾激化，圣诞前夕遭遇暗杀。小儿子迈克尔从战争英雄被一步步推上家族之位。",
+    "sources": [
+      {
+        "platform": "B站",
+        "tag": "大会员"
+      },
+      {
+        "platform": "爱奇艺",
+        "tag": "VIP"
+      }
+    ]
+  },
+  "pool": [
+    {
+      "id": "tmdb_238",
+      "title": "教父",
+      "en": "The Godfather",
+      "year": 1972,
+      "country": "美国",
+      "director": "弗朗西斯·福特·科波拉",
+      "cast": "马龙·白兰度 / 阿尔·帕西诺 / 詹姆斯·肯恩",
+      "genres": [
+        "犯罪",
+        "剧情"
+      ],
+      "runtime": 175,
+      "douban": 9.3,
+      "appScore": 8.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/y03tzUKvkRCYwJ5NWys4W4bnS9m.jpg",
+      "reason": "开场那句「我相信美国」之后，镜头用三十分钟把一个人怎么变成另一个人的全部条件都摆好了。这不是黑帮片，是关于「接班」这件事最冷的一次解剖。",
+      "plot": "40 年代的纽约，维托·柯里昂是黑手党家族的首领，也是许多弱小平民的保护神。因为拒绝毒枭的合作要求，家族与其他帮派矛盾激化，圣诞前夕遭遇暗杀。小儿子迈克尔从战争英雄被一步步推上家族之位。",
+      "sources": [
+        {
+          "platform": "B站",
+          "tag": "大会员"
+        },
+        {
+          "platform": "爱奇艺",
+          "tag": "VIP"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_278",
+      "title": "肖申克的救赎",
+      "en": "The Shawshank Redemption",
+      "year": 1994,
+      "country": "美国",
+      "director": "弗兰克·德拉邦特",
+      "cast": "蒂姆·罗宾斯 / 摩根·弗里曼",
+      "genres": [
+        "剧情",
+        "犯罪"
+      ],
+      "runtime": 142,
+      "douban": 9.7,
+      "appScore": 8.7,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
+      "reason": "它常年挂在榜单第一名，以至于很多人忘了它其实拍得很慢。真正好看的不是越狱，是那二十年里一个人怎么在墙里保住自己的时间感。",
+      "plot": "银行家安迪被误判谋杀妻子，入狱肖申克。二十年间，他用一把小锤子和一张海报，把「希望」这件事做成了工程。",
+      "sources": [
+        {
+          "platform": "腾讯视频",
+          "tag": "免费"
+        },
+        {
+          "platform": "爱奇艺",
+          "tag": "VIP"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_389",
+      "title": "十二怒汉",
+      "en": "12 Angry Men",
+      "year": 1957,
+      "country": "美国",
+      "director": "西德尼·吕美特",
+      "cast": "亨利·方达 / 李·科布",
+      "genres": [
+        "剧情"
+      ],
+      "runtime": 96,
+      "douban": 9.4,
+      "appScore": 8.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tbhKU2naM5ItPO4ICdF2GKow9ik.jpg",
+      "reason": "九十六分钟，一间屋子，十二个人，没有一个室外镜头。你会以为这种片子会很闷，结果它比大多数动作片更抓人——因为它拍的是「一个人怎么被说服」。",
+      "plot": "一个闷热的午后，十二名陪审员在一间屋子里裁决一名被控弑父的少年。十一人认为有罪，只有一人投了无罪。故事就在这间汗流浃背的房间里层层推进。",
+      "sources": [
+        {
+          "platform": "B站",
+          "tag": "免费"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_346",
+      "title": "七武士",
+      "en": "Seven Samurai",
+      "year": 1954,
+      "country": "日本",
+      "director": "黑泽明",
+      "cast": "三船敏郎 / 志村乔",
+      "genres": [
+        "动作",
+        "剧情"
+      ],
+      "runtime": 207,
+      "douban": 9.4,
+      "appScore": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/trW7LvPSPzLzXjmuc05KNWYw0yf.jpg",
+      "reason": "三个半小时，但最后那场雨战你会舍不得快进。所有「一群人被雇来保护一个村庄」的故事都是从这里抄的，包括很多你以为原创的。",
+      "plot": "十六世纪，一个穷困村庄的村民雇佣七位浪人武士，抵御每年秋收时来抢粮的山贼。七个性格完全不同的人，要在一次必败的防守里找到活下去的理由。",
+      "sources": [
+        {
+          "platform": "B站",
+          "tag": "大会员"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_424",
+      "title": "辛德勒的名单",
+      "en": "Schindler's List",
+      "year": 1993,
+      "country": "美国",
+      "director": "史蒂文·斯皮尔伯格",
+      "cast": "连姆·尼森 / 本·金斯利 / 拉尔夫·费因斯",
+      "genres": [
+        "剧情",
+        "历史",
+        "战争"
+      ],
+      "runtime": 195,
+      "douban": 9.5,
+      "appScore": 8.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7cDI6MrIi12uQxfipiNIeJPYljy.jpg",
+      "reason": "黑白片里那个穿红衣的小女孩，是全片唯一一次用彩色。斯皮尔伯格克制了三个小时，只为了让这一个镜头扎进来。",
+      "plot": "德国商人辛德勒在克拉科夫开办搪瓷厂，起初只想借战争发财。随着对犹太人的迫害升级，他开始用工厂、财富和关系，尽可能把身边的人从名单上保下来。",
+      "sources": [
+        {
+          "platform": "爱奇艺",
+          "tag": "VIP"
+        },
+        {
+          "platform": "腾讯视频",
+          "tag": "VIP"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_429",
+      "title": "黄金三镖客",
+      "en": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "country": "意大利",
+      "director": "塞尔吉奥·莱昂内",
+      "cast": "克林特·伊斯特伍德 / 李·范·克里夫",
+      "genres": [
+        "西部",
+        "冒险"
+      ],
+      "runtime": 161,
+      "douban": 9.1,
+      "appScore": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ygpxeqs0gPqQhCSdm7VtVID6PH0.jpg",
+      "reason": "最后那场三人对峙，镜头在三个人的眼睛之间切了将近五分钟，一句台词都没有。这是「用剪辑制造紧张」的教科书，后来的所有西部片都在抄它。",
+      "plot": "美国内战期间，三个枪手各自掌握着一半关于一笔黄金的秘密。他们互相利用、背叛、又不得不合作，一路从荒漠走到墓地。",
+      "sources": [
+        {
+          "platform": "B站",
+          "tag": "大会员"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_769",
+      "title": "好家伙",
+      "en": "GoodFellas",
+      "year": 1990,
+      "country": "美国",
+      "director": "马丁·斯科塞斯",
+      "cast": "罗伯特·德尼罗 / 雷·利奥塔 / 乔·佩西",
+      "genres": [
+        "犯罪",
+        "剧情"
+      ],
+      "runtime": 145,
+      "douban": 8.6,
+      "appScore": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4W6gXVoNJKBCx2X1Jh5BQ17SAGN.jpg",
+      "reason": "那个长达三分钟、一镜到底的夜店后门长镜头，是很多人第一次意识到「摄影机可以带路」。斯科塞斯用旁白和流行乐把黑帮片拍成了纪录片。",
+      "plot": "亨利·希尔从小混迹黑帮，靠收保护费、走私起家。他和吉米、汤米三人一起经历了江湖的暴富与崩塌，最终发现自己所有的安全感都是借来的。",
+      "sources": [
+        {
+          "platform": "腾讯视频",
+          "tag": "VIP"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_550",
+      "title": "搏击俱乐部",
+      "en": "Fight Club",
+      "year": 1999,
+      "country": "美国",
+      "director": "大卫·芬奇",
+      "cast": "爱德华·诺顿 / 布拉德·皮特 / 海伦娜·伯翰·卡特",
+      "genres": [
+        "剧情",
+        "惊悚"
+      ],
+      "runtime": 139,
+      "douban": 9.0,
+      "appScore": 8.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qkrH7rjYKU4KOwwIl6wF6H3ISvm.jpg",
+      "reason": "第一遍看是个反转，第二遍看才发现所有线索都摆在明面上。芬奇把「我是谁」这个问题拆成了两个人——一个想活得体面，一个只想炸掉一切。",
+      "plot": "一个患有失眠症的白领在飞机上遇到卖肥皂的泰勒。两人创立「搏击俱乐部」——男人在地下室互殴，以此找回真实的感觉。这个组织慢慢变成了他控制不了的东西。",
+      "sources": [
+        {
+          "platform": "爱奇艺",
+          "tag": "VIP"
+        },
+        {
+          "platform": "腾讯视频",
+          "tag": "免费"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_240",
+      "title": "教父 2",
+      "en": "The Godfather Part II",
+      "year": 1974,
+      "country": "美国",
+      "director": "弗朗西斯·福特·科波拉",
+      "cast": "阿尔·帕西诺 / 罗伯特·德尼罗",
+      "genres": [
+        "犯罪",
+        "剧情"
+      ],
+      "runtime": 202,
+      "douban": 9.2,
+      "appScore": 8.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4J8jUmjgKPggRPJqqdkjWCj2k0D.jpg",
+      "reason": "续集比第一部更好的极少数例子。两条时间线交错：年轻的维托在往上爬，中年的迈克尔在往下掉。最后一镜他一个人坐在湖边，你就明白权力是什么了。",
+      "plot": "影片双线并行：一条讲年轻的维托如何从西西里移民成长为教父，一条讲迈克尔接掌家族后如何在猜忌中清洗所有人。",
+      "sources": [
+        {
+          "platform": "B站",
+          "tag": "大会员"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_129",
+      "title": "千与千寻",
+      "en": "Spirited Away",
+      "year": 2001,
+      "country": "日本",
+      "director": "宫崎骏",
+      "cast": "柊瑠美 / 入野自由",
+      "genres": [
+        "动画",
+        "奇幻",
+        "冒险"
+      ],
+      "runtime": 125,
+      "douban": 9.4,
+      "appScore": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dnwMqbndJpOEhoVqjlMU9U7LFle.jpg",
+      "reason": "那趟只去不回的水上列车，全片没有一句台词解释它去哪。宫崎骏最厉害的地方是他从不说破——你看到什么就是什么。",
+      "plot": "十岁的千寻随父母误入神灵世界，父母因为偷吃供品变成猪。她在汤婆婆的油屋做工，用名字做抵押，一点点把自己换回来。",
+      "sources": [
+        {
+          "platform": "B站",
+          "tag": "大会员"
+        },
+        {
+          "platform": "腾讯视频",
+          "tag": "VIP"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_157336",
+      "title": "星际穿越",
+      "en": "Interstellar",
+      "year": 2014,
+      "country": "美国",
+      "director": "克里斯托弗·诺兰",
+      "cast": "马修·麦康纳 / 安妮·海瑟薇 / 杰西卡·查斯坦",
+      "genres": [
+        "科幻",
+        "冒险",
+        "剧情"
+      ],
+      "runtime": 169,
+      "douban": 9.4,
+      "appScore": 8.5,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/spQm5r317XPNHK1941ChWmqzkZs.jpg",
+      "reason": "米勒星球那场戏，一小时等于地球七年。诺兰把相对论拍成了你能摸到的心痛——不是物理，是父亲错过了女儿的全部成长。",
+      "plot": "地球濒临荒芜，前宇航员库珀加入穿越虫洞的远征，为人类寻找新家园。他在另一颗星球上度过几小时，地球上却过去了二十三年。",
+      "sources": [
+        {
+          "platform": "爱奇艺",
+          "tag": "VIP"
+        },
+        {
+          "platform": "腾讯视频",
+          "tag": "免费"
+        }
+      ]
+    },
+    {
+      "id": "tmdb_12477",
+      "title": "萤火虫之墓",
+      "en": "Grave of the Fireflies",
+      "year": 1988,
+      "country": "日本",
+      "director": "高畑勋",
+      "cast": "辰巳努 / 白石绫乃",
+      "genres": [
+        "动画",
+        "剧情",
+        "战争"
+      ],
+      "runtime": 89,
+      "douban": 8.7,
+      "appScore": 8.4,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u8fiQxH8BZKARS2Y9vrnBygOCzi.jpg",
+      "reason": "开场第一句就是「昭和二十年九月二十一日，我死了」。它不打算让你猜结局，只想让你看完这八十九分钟，然后很久说不出话。看之前确认自己状态还行。",
+      "plot": "1945 年神户空袭后，十四岁的清太带着四岁的妹妹节子失去母亲、无家可归，只能寄住亲戚家。物资越来越紧张，两人最终搬进废弃防空洞，试图只靠彼此活下去。",
+      "sources": [
+        {
+          "platform": "B站",
+          "tag": "大会员"
+        }
+      ]
+    }
+  ]
+}

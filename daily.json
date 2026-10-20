@@ -1,36 +1,47 @@
 {
-  "date": "2026-10-19",
-  "issue": 38,
+  "date": "2026-10-20",
+  "issue": 39,
   "today": {
-    "id": "tmdb_238",
-    "title": "教父",
-    "en": "The Godfather",
-    "year": 1972,
-    "country": "美国",
-    "director": "弗朗西斯·福特·科波拉",
-    "cast": "马龙·白兰度 / 阿尔·帕西诺 / 詹姆斯·肯恩",
+    "id": "tmdb_670",
+    "title": "老男孩",
+    "en": "Oldboy",
+    "year": 2003,
+    "country": "韩国",
+    "director": "朴赞郁",
+    "cast": "崔岷植 / 刘智泰 / 姜惠贞",
     "genres": [
-      "犯罪",
-      "剧情"
+      "惊悚",
+      "悬疑"
     ],
-    "runtime": 175,
-    "douban": 9.3,
-    "appScore": 8.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/y03tzUKvkRCYwJ5NWys4W4bnS9m.jpg",
-    "reason": "开场那句「我相信美国」之后，三十分钟把一个人怎么变成另一个人的全部条件摆好了。这不是黑帮片，是「接班」最冷的一次解剖。",
-    "plot": "40 年代的纽约，维托·柯里昂是黑手党家族的首领，也是许多弱小平民的保护神。因为拒绝毒枭的合作要求，家族与其他帮派矛盾激化，圣诞前夕遭遇暗杀。小儿子迈克尔从战争英雄被一步步推上家族之位。",
-    "sources": [
-      {
-        "platform": "B站",
-        "tag": "大会员"
-      },
-      {
-        "platform": "爱奇艺",
-        "tag": "VIP"
-      }
-    ]
+    "runtime": 120,
+    "douban": 0,
+    "appScore": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3oQbLtBkYN4Y0Om7LiSqwg7l8Jv.jpg",
+    "reason": "五年前为什么关他，答案在最后二十分钟才给。走廊那场横移长镜头，摄影机三分钟不切，暴力全都拍在侧面。",
+    "plot": "女儿生日那天，吴大修在醉酒回家路上被人绑架，关进一间没有窗的房间，只有一台电视陪着他。十五年后他被突然放出来，手里有手机、有钱、只有五天时间——去查清是谁关了他，为什么。",
+    "sources": []
   },
   "pool": [
+    {
+      "id": "tmdb_670",
+      "title": "老男孩",
+      "en": "Oldboy",
+      "year": 2003,
+      "country": "韩国",
+      "director": "朴赞郁",
+      "cast": "崔岷植 / 刘智泰 / 姜惠贞",
+      "genres": [
+        "惊悚",
+        "悬疑"
+      ],
+      "runtime": 120,
+      "douban": 0,
+      "appScore": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3oQbLtBkYN4Y0Om7LiSqwg7l8Jv.jpg",
+      "reason": "五年前为什么关他，答案在最后二十分钟才给。走廊那场横移长镜头，摄影机三分钟不切，暴力全都拍在侧面。",
+      "plot": "女儿生日那天，吴大修在醉酒回家路上被人绑架，关进一间没有窗的房间，只有一台电视陪着他。十五年后他被突然放出来，手里有手机、有钱、只有五天时间——去查清是谁关了他，为什么。",
+      "sources": []
+    },
     {
       "id": "tmdb_238",
       "title": "教父",

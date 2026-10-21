@@ -1,27 +1,49 @@
 {
-  "date": "2026-10-20",
-  "issue": 39,
+  "date": "2026-10-21",
+  "issue": 40,
   "today": {
-    "id": "tmdb_670",
-    "title": "老男孩",
-    "en": "Oldboy",
-    "year": 2003,
-    "country": "韩国",
-    "director": "朴赞郁",
-    "cast": "崔岷植 / 刘智泰 / 姜惠贞",
+    "id": "tmdb_567",
+    "title": "后窗",
+    "en": "Rear Window",
+    "year": 1954,
+    "country": "美国",
+    "director": "阿尔弗雷德·希区柯克",
+    "cast": "詹姆斯·斯图尔特 / 格蕾丝·凯利 / 温德尔·科里",
     "genres": [
       "惊悚",
-      "悬疑"
+      "悬疑",
+      "剧情"
     ],
-    "runtime": 120,
+    "runtime": 113,
     "douban": 0,
-    "appScore": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3oQbLtBkYN4Y0Om7LiSqwg7l8Jv.jpg",
-    "reason": "五年前为什么关他，答案在最后二十分钟才给。走廊那场横移长镜头，摄影机三分钟不切，暴力全都拍在侧面。",
-    "plot": "女儿生日那天，吴大修在醉酒回家路上被人绑架，关进一间没有窗的房间，只有一台电视陪着他。十五年后他被突然放出来，手里有手机、有钱、只有五天时间——去查清是谁关了他，为什么。",
+    "appScore": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2JWx8s8ARkd6z4wW7ZXIxhvkc69.jpg",
+    "reason": "一间屋子、一扇窗、一个院子，全片就这些。希区柯克把观众也按在轮椅上——每格画面都是邻居家的证据，最后被审的是看的人。",
+    "plot": "摄影记者杰弗里斯摔断腿，在家养伤，只能坐轮椅上靠窗打发时间。他开始观察对面院子里的邻居，看着看着，给每一户都编了一套生活。某个雨夜之后，其中一户的妻子不见了。",
     "sources": []
   },
   "pool": [
+    {
+      "id": "tmdb_567",
+      "title": "后窗",
+      "en": "Rear Window",
+      "year": 1954,
+      "country": "美国",
+      "director": "阿尔弗雷德·希区柯克",
+      "cast": "詹姆斯·斯图尔特 / 格蕾丝·凯利 / 温德尔·科里",
+      "genres": [
+        "惊悚",
+        "悬疑",
+        "剧情"
+      ],
+      "runtime": 113,
+      "douban": 0,
+      "appScore": 8.3,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2JWx8s8ARkd6z4wW7ZXIxhvkc69.jpg",
+      "reason": "一间屋子、一扇窗、一个院子，全片就这些。希区柯克把观众也按在轮椅上——每格画面都是邻居家的证据，最后被审的是看的人。",
+      "plot": "摄影记者杰弗里斯摔断腿，在家养伤，只能坐轮椅上靠窗打发时间。他开始观察对面院子里的邻居，看着看着，给每一户都编了一套生活。某个雨夜之后，其中一户的妻子不见了。",
+      "sources": []
+    },
     {
       "id": "tmdb_670",
       "title": "老男孩",

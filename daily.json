@@ -1,27 +1,49 @@
 {
-  "date": "2026-10-23",
-  "issue": 42,
+  "date": "2026-10-24",
+  "issue": 43,
   "today": {
-    "id": "tmdb_843",
-    "title": "花样年华",
-    "en": "In the Mood for Love",
-    "year": 2000,
-    "country": "中国香港",
-    "director": "王家卫",
-    "cast": "张曼玉 / 梁朝伟 / 潘迪华",
+    "id": "tmdb_329865",
+    "title": "降临",
+    "en": "Arrival",
+    "year": 2016,
+    "country": "美国",
+    "director": "丹尼斯·维伦纽瓦",
+    "cast": "艾米·亚当斯 / 杰瑞米·雷纳 / 福里斯特·惠特克",
     "genres": [
       "剧情",
-      "爱情"
+      "科幻",
+      "悬疑"
     ],
-    "runtime": 99,
+    "runtime": 116,
     "douban": 0,
-    "appScore": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1Z32pKrmWW2nkLFYGoc79MzJin6.jpg",
-    "reason": "楼梯、走廊、旗袍换了二十几套，动作几乎一样，差别只在钟点。所有该发生的都被剪掉了，剩下的是两人隔着一道门框站着。",
-    "plot": "1962 年的香港，周慕云和苏丽珍成了邻居，也几乎同时发现各自的配偶在背叛自己。两人开始一起推演「那件事是怎么开始的」，一遍遍重演，越演越真，最后把想问的话留在了吴哥窟的石缝里。",
+    "appScore": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9ontErpaTQ5m3EuAHiIElP90xjg.jpg",
+    "reason": "开头那段回忆其实是未来。学会一门语言就重排了时间，所以全片第一次看懂时，前面的每一场都变了意思。",
+    "plot": "十二艘外星飞船同时悬停在全球十二个地点，语言学家露易丝被军方请去破译它们的文字。她发现这种圆环状的书写没有起点也没有终点，而真正读懂它的人，记忆的先后顺序也会被一起改写。",
     "sources": []
   },
   "pool": [
+    {
+      "id": "tmdb_329865",
+      "title": "降临",
+      "en": "Arrival",
+      "year": 2016,
+      "country": "美国",
+      "director": "丹尼斯·维伦纽瓦",
+      "cast": "艾米·亚当斯 / 杰瑞米·雷纳 / 福里斯特·惠特克",
+      "genres": [
+        "剧情",
+        "科幻",
+        "悬疑"
+      ],
+      "runtime": 116,
+      "douban": 0,
+      "appScore": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9ontErpaTQ5m3EuAHiIElP90xjg.jpg",
+      "reason": "开头那段回忆其实是未来。学会一门语言就重排了时间，所以全片第一次看懂时，前面的每一场都变了意思。",
+      "plot": "十二艘外星飞船同时悬停在全球十二个地点，语言学家露易丝被军方请去破译它们的文字。她发现这种圆环状的书写没有起点也没有终点，而真正读懂它的人，记忆的先后顺序也会被一起改写。",
+      "sources": []
+    },
     {
       "id": "tmdb_843",
       "title": "花样年华",

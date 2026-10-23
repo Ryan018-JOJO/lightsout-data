@@ -1,27 +1,47 @@
 {
-  "date": "2026-10-22",
-  "issue": 41,
+  "date": "2026-10-23",
+  "issue": 42,
   "today": {
-    "id": "tmdb_598",
-    "title": "上帝之城",
-    "en": "City of God",
-    "year": 2002,
-    "country": "巴西",
-    "director": "费尔南多·梅里尔斯",
-    "cast": "亚历桑德雷·罗德里格斯 / 莱安德鲁·菲尔米诺 / 菲利佩·哈根森",
+    "id": "tmdb_843",
+    "title": "花样年华",
+    "en": "In the Mood for Love",
+    "year": 2000,
+    "country": "中国香港",
+    "director": "王家卫",
+    "cast": "张曼玉 / 梁朝伟 / 潘迪华",
     "genres": [
       "剧情",
-      "犯罪"
+      "爱情"
     ],
-    "runtime": 129,
+    "runtime": 99,
     "douban": 0,
-    "appScore": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AhTemxbjHVkf456eEGxKK333xfr.jpg",
-    "reason": "开头那只鸡、那圈人、那把枪，两小时后才补上原因。非线性不是炫技，是把「谁有资格按下快门」一直攥在阿炮手里。",
-    "plot": "六十年代，里约贫民窟「上帝之城」里，阿炮从小看着少年三侠抢劫、看着小豆子一点点变成杀人不眨眼的帮派头目。他不敢拿枪，只捡到一台相机。二十年间帮派换了几轮，他一直在旁边拍。",
+    "appScore": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1Z32pKrmWW2nkLFYGoc79MzJin6.jpg",
+    "reason": "楼梯、走廊、旗袍换了二十几套，动作几乎一样，差别只在钟点。所有该发生的都被剪掉了，剩下的是两人隔着一道门框站着。",
+    "plot": "1962 年的香港，周慕云和苏丽珍成了邻居，也几乎同时发现各自的配偶在背叛自己。两人开始一起推演「那件事是怎么开始的」，一遍遍重演，越演越真，最后把想问的话留在了吴哥窟的石缝里。",
     "sources": []
   },
   "pool": [
+    {
+      "id": "tmdb_843",
+      "title": "花样年华",
+      "en": "In the Mood for Love",
+      "year": 2000,
+      "country": "中国香港",
+      "director": "王家卫",
+      "cast": "张曼玉 / 梁朝伟 / 潘迪华",
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "runtime": 99,
+      "douban": 0,
+      "appScore": 8.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1Z32pKrmWW2nkLFYGoc79MzJin6.jpg",
+      "reason": "楼梯、走廊、旗袍换了二十几套，动作几乎一样，差别只在钟点。所有该发生的都被剪掉了，剩下的是两人隔着一道门框站着。",
+      "plot": "1962 年的香港，周慕云和苏丽珍成了邻居，也几乎同时发现各自的配偶在背叛自己。两人开始一起推演「那件事是怎么开始的」，一遍遍重演，越演越真，最后把想问的话留在了吴哥窟的石缝里。",
+      "sources": []
+    },
     {
       "id": "tmdb_598",
       "title": "上帝之城",

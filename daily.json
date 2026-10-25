@@ -1,28 +1,49 @@
 {
-  "date": "2026-10-24",
-  "issue": 43,
+  "date": "2026-10-25",
+  "issue": 44,
   "today": {
-    "id": "tmdb_329865",
-    "title": "降临",
-    "en": "Arrival",
-    "year": 2016,
-    "country": "美国",
-    "director": "丹尼斯·维伦纽瓦",
-    "cast": "艾米·亚当斯 / 杰瑞米·雷纳 / 福里斯特·惠特克",
+    "id": "tmdb_15804",
+    "title": "牯岭街少年杀人事件",
+    "en": "A Brighter Summer Day",
+    "year": 1991,
+    "country": "中国台湾",
+    "director": "杨德昌",
+    "cast": "张震 / 杨静怡 / 张国柱",
     "genres": [
+      "犯罪",
       "剧情",
-      "科幻",
-      "悬疑"
+      "爱情"
     ],
-    "runtime": 116,
+    "runtime": 237,
     "douban": 0,
-    "appScore": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9ontErpaTQ5m3EuAHiIElP90xjg.jpg",
-    "reason": "开头那段回忆其实是未来。学会一门语言就重排了时间，所以全片第一次看懂时，前面的每一场都变了意思。",
-    "plot": "十二艘外星飞船同时悬停在全球十二个地点，语言学家露易丝被军方请去破译它们的文字。她发现这种圆环状的书写没有起点也没有终点，而真正读懂它的人，记忆的先后顺序也会被一起改写。",
+    "appScore": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/g5gMOcn0vFUITufKSxxL2WCyBIU.jpg",
+    "reason": "片名已经说完了结局，四个小时只回答一件事：一个成绩不错的少年怎么走到那把刀前面。摄影机几乎不动，等时代自己走过来。",
+    "plot": "1960 年代初的台北，小四随父母从大陆迁来，一家挤在日式宿舍里。他在建国中学夜间部念书，被卷进眷村少年帮派的争斗，也因此认识了小明。父亲被带走问话之后，家里那点秩序开始松动。四个小时之后，小四在夜里捅出了那一刀。",
     "sources": []
   },
   "pool": [
+    {
+      "id": "tmdb_15804",
+      "title": "牯岭街少年杀人事件",
+      "en": "A Brighter Summer Day",
+      "year": 1991,
+      "country": "中国台湾",
+      "director": "杨德昌",
+      "cast": "张震 / 杨静怡 / 张国柱",
+      "genres": [
+        "犯罪",
+        "剧情",
+        "爱情"
+      ],
+      "runtime": 237,
+      "douban": 0,
+      "appScore": 8.2,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/g5gMOcn0vFUITufKSxxL2WCyBIU.jpg",
+      "reason": "片名已经说完了结局，四个小时只回答一件事：一个成绩不错的少年怎么走到那把刀前面。摄影机几乎不动，等时代自己走过来。",
+      "plot": "1960 年代初的台北，小四随父母从大陆迁来，一家挤在日式宿舍里。他在建国中学夜间部念书，被卷进眷村少年帮派的争斗，也因此认识了小明。父亲被带走问话之后，家里那点秩序开始松动。四个小时之后，小四在夜里捅出了那一刀。",
+      "sources": []
+    },
     {
       "id": "tmdb_329865",
       "title": "降临",

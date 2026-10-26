@@ -1,28 +1,45 @@
 {
-  "date": "2026-10-25",
-  "issue": 44,
+  "date": "2026-10-26",
+  "issue": 45,
   "today": {
-    "id": "tmdb_15804",
-    "title": "牯岭街少年杀人事件",
-    "en": "A Brighter Summer Day",
+    "id": "tmdb_10404",
+    "title": "大红灯笼高高挂",
+    "en": "Raise the Red Lantern",
     "year": 1991,
-    "country": "中国台湾",
-    "director": "杨德昌",
-    "cast": "张震 / 杨静怡 / 张国柱",
+    "country": "中国大陆",
+    "director": "张艺谋",
+    "cast": "巩俐 / 何赛飞 / 曹翠芬",
     "genres": [
-      "犯罪",
-      "剧情",
-      "爱情"
+      "剧情"
     ],
-    "runtime": 237,
+    "runtime": 125,
     "douban": 0,
-    "appScore": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/g5gMOcn0vFUITufKSxxL2WCyBIU.jpg",
-    "reason": "片名已经说完了结局，四个小时只回答一件事：一个成绩不错的少年怎么走到那把刀前面。摄影机几乎不动，等时代自己走过来。",
-    "plot": "1960 年代初的台北，小四随父母从大陆迁来，一家挤在日式宿舍里。他在建国中学夜间部念书，被卷进眷村少年帮派的争斗，也因此认识了小明。父亲被带走问话之后，家里那点秩序开始松动。四个小时之后，小四在夜里捅出了那一刀。",
+    "appScore": 8.0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/l0aOhq7UeR3PDIYgSaiHkEkshAJ.jpg",
+    "reason": "点灯、灭灯、封灯。全片没离开过那座院子，季节换四次，谁站在灯笼底下谁就有理——权力被做成了一套看得见的流程。",
+    "plot": "民国年间，十九岁的颂莲被继母送进陈家大院，做了第四房太太。老爷从头到尾不露正脸，他今夜宿在哪一院，哪一院门前就点起红灯笼。点灯是得宠，灭灯是失势，封灯是一辈子完了。几房太太的日子，全由院子里那盏灯决定。",
     "sources": []
   },
   "pool": [
+    {
+      "id": "tmdb_10404",
+      "title": "大红灯笼高高挂",
+      "en": "Raise the Red Lantern",
+      "year": 1991,
+      "country": "中国大陆",
+      "director": "张艺谋",
+      "cast": "巩俐 / 何赛飞 / 曹翠芬",
+      "genres": [
+        "剧情"
+      ],
+      "runtime": 125,
+      "douban": 0,
+      "appScore": 8.0,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l0aOhq7UeR3PDIYgSaiHkEkshAJ.jpg",
+      "reason": "点灯、灭灯、封灯。全片没离开过那座院子，季节换四次，谁站在灯笼底下谁就有理——权力被做成了一套看得见的流程。",
+      "plot": "民国年间，十九岁的颂莲被继母送进陈家大院，做了第四房太太。老爷从头到尾不露正脸，他今夜宿在哪一院，哪一院门前就点起红灯笼。点灯是得宠，灭灯是失势，封灯是一辈子完了。几房太太的日子，全由院子里那盏灯决定。",
+      "sources": []
+    },
     {
       "id": "tmdb_15804",
       "title": "牯岭街少年杀人事件",

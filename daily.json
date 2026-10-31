@@ -1,27 +1,47 @@
 {
-  "date": "2026-10-30",
-  "issue": 49,
+  "date": "2026-10-31",
+  "issue": 50,
   "today": {
-    "id": "tmdb_490",
-    "title": "第七封印",
-    "en": "The Seventh Seal",
-    "year": 1957,
-    "country": "瑞典",
-    "director": "英格玛·伯格曼",
-    "cast": "甘纳尔·布耶恩施特兰德 / 本特·埃克罗特 / 尼尔斯·波普 / 马克斯·冯·西多 / 比比·安德森",
+    "id": "tmdb_9343",
+    "title": "陆上行舟",
+    "en": "Fitzcarraldo",
+    "year": 1982,
+    "country": "德国",
+    "director": "沃纳·赫尔佐格",
+    "cast": "克劳斯·金斯基 / 克劳迪娅·卡汀娜 / José Lewgoy / Miguel Ángel Fuentes / Paul Hittscher",
     "genres": [
-      "奇幻",
-      "剧情"
+      "剧情",
+      "冒险"
     ],
-    "runtime": 96,
+    "runtime": 157,
     "douban": 0,
-    "appScore": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7XDQToHu2JXK4aJjNV0ij1nllRM.jpg",
-    "reason": "棋局不是隐喻，是骨架：骑士每落一子，片子就换一场人，最后死神推平棋盘，所有人排进那条死亡之舞的长队。",
-    "plot": "十字军东征归来的骑士布洛克带着侍从延斯回到瑞典，眼前是黑死病扫过的荒原。他在海边遇见披斗篷的死神，提出用一盘棋赌自己的性命，棋局就此断断续续地穿过整部电影。路上他们收留了流浪艺人约夫一家、遇上苦修的自笞队伍、烧女巫的士兵和一个被瘟疫吓空了的教堂。棋局可以被拖延，但不会被赢下；真正逃出去的是那对什么都不问、只管给孩子喂奶的夫妻。",
+    "appScore": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ArN2ltzwfJG0bFuLBQMYuYK3rpk.jpg",
+    "reason": "开场十分钟摄影机贴着河面滑行，穿过雾，最后停在那艘载着歌剧院的船上；之后两小时只干一件事——把船拖过山。",
+    "plot": "二十世纪初的秘鲁伊基托斯，痴迷歌剧的菲茨杰拉尔多在雨林小镇里听卡鲁索的唱片，当场决定要盖一座大剧院。为了筹钱他接下橡胶大亨的活，带印第安人把一艘三百吨的蒸汽船拆开又装回，硬生生从一条河拖过整座山，搬到另一条河的支流上——船上那台留声机，一路上还在为雨林里的乘客放歌。",
     "sources": []
   },
   "pool": [
+    {
+      "id": "tmdb_9343",
+      "title": "陆上行舟",
+      "en": "Fitzcarraldo",
+      "year": 1982,
+      "country": "德国",
+      "director": "沃纳·赫尔佐格",
+      "cast": "克劳斯·金斯基 / 克劳迪娅·卡汀娜 / José Lewgoy / Miguel Ángel Fuentes / Paul Hittscher",
+      "genres": [
+        "剧情",
+        "冒险"
+      ],
+      "runtime": 157,
+      "douban": 0,
+      "appScore": 7.6,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ArN2ltzwfJG0bFuLBQMYuYK3rpk.jpg",
+      "reason": "开场十分钟摄影机贴着河面滑行，穿过雾，最后停在那艘载着歌剧院的船上；之后两小时只干一件事——把船拖过山。",
+      "plot": "二十世纪初的秘鲁伊基托斯，痴迷歌剧的菲茨杰拉尔多在雨林小镇里听卡鲁索的唱片，当场决定要盖一座大剧院。为了筹钱他接下橡胶大亨的活，带印第安人把一艘三百吨的蒸汽船拆开又装回，硬生生从一条河拖过整座山，搬到另一条河的支流上——船上那台留声机，一路上还在为雨林里的乘客放歌。",
+      "sources": []
+    },
     {
       "id": "tmdb_490",
       "title": "第七封印",

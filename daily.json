@@ -1,27 +1,47 @@
 {
-  "date": "2026-10-31",
-  "issue": 50,
+  "date": "2026-11-01",
+  "issue": 51,
   "today": {
-    "id": "tmdb_9343",
-    "title": "陆上行舟",
-    "en": "Fitzcarraldo",
-    "year": 1982,
-    "country": "德国",
-    "director": "沃纳·赫尔佐格",
-    "cast": "克劳斯·金斯基 / 克劳迪娅·卡汀娜 / José Lewgoy / Miguel Ángel Fuentes / Paul Hittscher",
+    "id": "tmdb_30017",
+    "title": "特写",
+    "en": "Close-Up",
+    "year": 1990,
+    "country": "伊朗",
+    "director": "阿巴斯·基亚罗斯塔米",
+    "cast": "Hossain Sabzian（本人）/ Mohsen Makhmalbaf（本人）/ Abolfazl Ahankhah / Mehrdad Ahankhah / Monoochehr Ahankhah",
     "genres": [
-      "剧情",
-      "冒险"
+      "犯罪",
+      "剧情"
     ],
-    "runtime": 157,
+    "runtime": 98,
     "douban": 0,
-    "appScore": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ArN2ltzwfJG0bFuLBQMYuYK3rpk.jpg",
-    "reason": "开场十分钟摄影机贴着河面滑行，穿过雾，最后停在那艘载着歌剧院的船上；之后两小时只干一件事——把船拖过山。",
-    "plot": "二十世纪初的秘鲁伊基托斯，痴迷歌剧的菲茨杰拉尔多在雨林小镇里听卡鲁索的唱片，当场决定要盖一座大剧院。为了筹钱他接下橡胶大亨的活，带印第安人把一艘三百吨的蒸汽船拆开又装回，硬生生从一条河拖过整座山，搬到另一条河的支流上——船上那台留声机，一路上还在为雨林里的乘客放歌。",
+    "appScore": 8.0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/p4hVFDdeSRnsaiEhQE5UsAm7nqT.jpg",
+    "reason": "当事人自己重演自己：冒充导演的男人在法庭上陈述，演的是他本人。结尾录音机断电，声音没了画面还在走——形式即主题。",
+    "plot": "1989 年的德黑兰，失业的印刷工侯赛因·萨布齐恩在公交车上认识了阿汉克哈家的女主人，自称是导演莫森·马克马尔巴夫，被请进这个中产家庭做客，还说要拍一部以他们家儿子为主角的电影。谎言拆穿后他被捕。记者法拉兹曼德说服警方让摄影机进法庭，阿巴斯于是把庭审拍成了这部电影——原告、被告、法官全是本人。萨布齐安在庭上说，他冒充导演不是因为缺钱，是因为被人当成马克马尔巴夫，比当他自己好。",
     "sources": []
   },
   "pool": [
+    {
+      "id": "tmdb_30017",
+      "title": "特写",
+      "en": "Close-Up",
+      "year": 1990,
+      "country": "伊朗",
+      "director": "阿巴斯·基亚罗斯塔米",
+      "cast": "Hossain Sabzian（本人）/ Mohsen Makhmalbaf（本人）/ Abolfazl Ahankhah / Mehrdad Ahankhah / Monoochehr Ahankhah",
+      "genres": [
+        "犯罪",
+        "剧情"
+      ],
+      "runtime": 98,
+      "douban": 0,
+      "appScore": 8.0,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/p4hVFDdeSRnsaiEhQE5UsAm7nqT.jpg",
+      "reason": "当事人自己重演自己：冒充导演的男人在法庭上陈述，演的是他本人。结尾录音机断电，声音没了画面还在走——形式即主题。",
+      "plot": "1989 年的德黑兰，失业的印刷工侯赛因·萨布齐恩在公交车上认识了阿汉克哈家的女主人，自称是导演莫森·马克马尔巴夫，被请进这个中产家庭做客，还说要拍一部以他们家儿子为主角的电影。谎言拆穿后他被捕。记者法拉兹曼德说服警方让摄影机进法庭，阿巴斯于是把庭审拍成了这部电影——原告、被告、法官全是本人。萨布齐安在庭上说，他冒充导演不是因为缺钱，是因为被人当成马克马尔巴夫，比当他自己好。",
+      "sources": []
+    },
     {
       "id": "tmdb_9343",
       "title": "陆上行舟",

@@ -1,27 +1,49 @@
 {
-  "date": "2026-11-01",
-  "issue": 51,
+  "date": "2026-11-02",
+  "issue": 52,
   "today": {
-    "id": "tmdb_30017",
-    "title": "特写",
-    "en": "Close-Up",
-    "year": 1990,
-    "country": "伊朗",
-    "director": "阿巴斯·基亚罗斯塔米",
-    "cast": "Hossain Sabzian（本人）/ Mohsen Makhmalbaf（本人）/ Abolfazl Ahankhah / Mehrdad Ahankhah / Monoochehr Ahankhah",
+    "id": "tmdb_11423",
+    "title": "杀人回忆",
+    "en": "Memories of Murder",
+    "year": 2003,
+    "country": "韩国",
+    "director": "奉俊昊",
+    "cast": "宋康昊 / 金相庆 / 金雷夏 / 宋在浩 / 边熙峰 / 高瑞熙",
     "genres": [
       "犯罪",
-      "剧情"
+      "剧情",
+      "惊悚"
     ],
-    "runtime": 98,
+    "runtime": 131,
     "douban": 0,
-    "appScore": 8.0,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/p4hVFDdeSRnsaiEhQE5UsAm7nqT.jpg",
-    "reason": "当事人自己重演自己：冒充导演的男人在法庭上陈述，演的是他本人。结尾录音机断电，声音没了画面还在走——形式即主题。",
-    "plot": "1989 年的德黑兰，失业的印刷工侯赛因·萨布齐恩在公交车上认识了阿汉克哈家的女主人，自称是导演莫森·马克马尔巴夫，被请进这个中产家庭做客，还说要拍一部以他们家儿子为主角的电影。谎言拆穿后他被捕。记者法拉兹曼德说服警方让摄影机进法庭，阿巴斯于是把庭审拍成了这部电影——原告、被告、法官全是本人。萨布齐安在庭上说，他冒充导演不是因为缺钱，是因为被人当成马克马尔巴夫，比当他自己好。",
+    "appScore": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yVMRfewS90wuQHFKSKvf9vgjnUE.jpg",
+    "reason": "每抓到嫌疑人就换一套证据链，案子始终不结。结尾宋康昊直视镜头，把观众也算进嫌疑人名单。",
+    "plot": "1986 年京畿道华城，稻田边的水沟里发现女尸。本地刑警朴斗满靠直觉和逼供办案，从首尔来的徐泰润只信文件与逻辑，两人从互不服从到被迫合作。线索一次次指向某个嫌疑人，又一次次被 DNA、口供或者时代本身推翻，案件在追诉期走到尽头前始终没有答案。2003 年，早已转行的朴斗满回到第一起案发现场，听一个小女孩说，不久前也有个男人蹲在这里往沟里看。",
     "sources": []
   },
   "pool": [
+    {
+      "id": "tmdb_11423",
+      "title": "杀人回忆",
+      "en": "Memories of Murder",
+      "year": 2003,
+      "country": "韩国",
+      "director": "奉俊昊",
+      "cast": "宋康昊 / 金相庆 / 金雷夏 / 宋在浩 / 边熙峰 / 高瑞熙",
+      "genres": [
+        "犯罪",
+        "剧情",
+        "惊悚"
+      ],
+      "runtime": 131,
+      "douban": 0,
+      "appScore": 8.1,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yVMRfewS90wuQHFKSKvf9vgjnUE.jpg",
+      "reason": "每抓到嫌疑人就换一套证据链，案子始终不结。结尾宋康昊直视镜头，把观众也算进嫌疑人名单。",
+      "plot": "1986 年京畿道华城，稻田边的水沟里发现女尸。本地刑警朴斗满靠直觉和逼供办案，从首尔来的徐泰润只信文件与逻辑，两人从互不服从到被迫合作。线索一次次指向某个嫌疑人，又一次次被 DNA、口供或者时代本身推翻，案件在追诉期走到尽头前始终没有答案。2003 年，早已转行的朴斗满回到第一起案发现场，听一个小女孩说，不久前也有个男人蹲在这里往沟里看。",
+      "sources": []
+    },
     {
       "id": "tmdb_30017",
       "title": "特写",
